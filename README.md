@@ -55,4 +55,4 @@ YourRepoName/
 
 ---
 
-📌 **Deadline:** **[31st October]**
+📌 **Deadline:** **[04th November]**
